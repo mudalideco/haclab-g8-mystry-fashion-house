@@ -17,7 +17,7 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "G8 Mystry Fashion House 256 | Custom Tailoring & Fashion Design Kampala",
+  title: "G8 Mystry Fashion House | Custom Tailoring Kampala",
   description: "Premium fashion house in Makindye, Kampala. Custom tailoring, wedding gowns, African wear, menswear & alterations. Your vision, perfectly crafted.",
 };
 

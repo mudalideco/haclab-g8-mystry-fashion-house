@@ -3,10 +3,10 @@ import Image from 'next/image'
 import { motion } from 'framer-motion'
 
 const galleryImages = [
-  'https://images.unsplash.com/photo-1556761175-5973dc0f32d7?q=80&w=800&auto=format&fit=crop',
-  'https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop',
-  'https://images.unsplash.com/photo-1485129201500-eed2e63e6f6d?q=80&w=800&auto=format&fit=crop',
-  'https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=800&auto=format&fit=crop',
+  'https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80',
+  'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80',
+  'https://images.unsplash.com/photo-1580618672591-eb180b1a973f?w=800&q=80',
+  'https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800&q=80',
 ]
 
 export function ShowcaseSection() {
